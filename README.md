@@ -3,7 +3,8 @@
 Repositório criado para a entrega da **Atividade 1** da disciplina **Construção de Algoritmos e Programação** no 2º Semestre de Engenharia de Computação.
 
 **Linguagem:** Python 3  
-**Link da aula:** [Slides de Pesquisa Binária](https://unasp-aulas.github.io/construir-algoritmos/docs/index.html#/title-slide)
+* **Material da disciplina:** [Construção de Algoritmos e Programação](https://unasp-aulas.github.io/construir-algoritmos/docs/index.html#/title-slide)
+* **Slide do exercício:** [Exercícios de Pesquisa Binária](https://unasp-aulas.github.io/construir-algoritmos/docs/index.html#/exerc%C3%ADcios-com-pesquisa-bin%C3%A1ria)
 
 ---
 
